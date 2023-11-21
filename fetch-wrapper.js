@@ -29,7 +29,3 @@ export default class FetchWrapper {
     }).then((response) => response.json());
   }
 }
-
-export function logger() {
-  console.log("Hello from the FetchWrapper!");
-}

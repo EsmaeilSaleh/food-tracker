@@ -1,4 +1,2 @@
-import { logger } from "./fetch-wrapper.js";
+import FetchWrapper from "./fetch-wrapper.js";
 console.log("heelloo im here!");
-
-logger();
